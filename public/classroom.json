@@ -1,0 +1,72 @@
+[
+    {
+        "classroom_number": 101,
+        "building": "Main Building",
+        "id": 6,
+        "name": "Six",
+        "floor": 1,
+        "image": "/src/components/Photo/Image/20240106_225436.png",
+        "total_students": 30,
+        "class_teacher": {
+            "name": "Mr. Smith",
+            "subject": "Mathematics",
+            "image": "path/to/teacher_image.jpg"
+        }
+    },
+    {
+        "classroom_number": 102,
+        "building": "Main Building",
+        "id": 7,
+        "name": "Seven",
+        "floor": 1,
+        "image": "path/to/classroom_image_2.jpg",
+        "total_students": 28,
+        "class_teacher": {
+            "name": "Ms. Johnson",
+            "subject": "Science",
+            "image": "path/to/teacher_image_2.jpg"
+        }
+    },
+    {
+        "classroom_number": 103,
+        "building": "Main Building",
+        "id": 8,
+        "name": "Eight",
+        "floor": 1,
+        "image": "path/to/classroom_image_3.jpg",
+        "total_students": 32,
+        "class_teacher": {
+            "name": "Mrs. Davis",
+            "subject": "English",
+            "image": "path/to/teacher_image_3.jpg"
+        }
+    },
+    {
+        "classroom_number": 104,
+        "building": "Main Building",
+        "id": 9,
+        "name": "Nine",
+        "floor": 1,
+        "image": "path/to/classroom_image_4.jpg",
+        "total_students": 29,
+        "class_teacher": {
+            "name": "Mr. Anderson",
+            "subject": "History",
+            "image": "path/to/teacher_image_4.jpg"
+        }
+    },
+    {
+        "classroom_number": 105,
+        "building": "Main Building",
+        "id": 10,
+        "name": "Ten",
+        "floor": 1,
+        "image": "path/to/classroom_image_5.jpg",
+        "total_students": 31,
+        "class_teacher": {
+            "name": "Mrs. Wilson",
+            "subject": "Geography",
+            "image": "path/to/teacher_image_5.jpg"
+        }
+    }
+]

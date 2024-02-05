@@ -1,0 +1,27 @@
+{
+    "about_us": {
+      "school_name": "High School X",
+      "location": "Cityville",
+      "founding_year": 1985,
+      "mission_statement": "Empowering students for a bright future through quality education and character development.",
+      "vision_statement": "To be a leading institution that fosters academic excellence, creativity, and social responsibility.",
+      "principal": {
+        "name": "John Doe",
+        "experience_years": 20,
+        "phone": "01776964576",
+        "email": "john.doe@highschoolx.edu"
+        
+      },
+      "contact_information": {
+        "address": "123 Main Street, Cityville",
+        "phone": "+1 (555) 123-4567",
+        "email": "info@highschoolx.edu"
+      },
+      "social_media": {
+        "facebook": "https://www.facebook.com/highschoolx",
+        "twitter": "https://twitter.com/highschoolx",
+        "instagram": "https://www.instagram.com/highschoolx"
+      }
+    }
+  }
+  
